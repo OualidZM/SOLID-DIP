@@ -1,7 +1,7 @@
 package edu.pingpong.DIP;
 
 import edu.pingpong.DIP.bbdd.InventarioBBDD;
-// import edu.pingpong.DIP.negocio.ControladorEstoc;
+import edu.pingpong.DIP.negocio.ControladorEstoc;
 import org.junit.Assert;
 import org.junit.Test;
 
